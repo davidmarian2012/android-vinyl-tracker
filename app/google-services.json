@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159930280171",
+    "project_id": "vinyl-tracker-9cc4d",
+    "storage_bucket": "vinyl-tracker-9cc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159930280171:android:9f7b12868a4b728be5b6ae",
+        "android_client_info": {
+          "package_name": "com.example.vinyl_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159930280171-jdvukltniojrsjs3g2t6431pej66djof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwXRQmEyOSPQ1PKWRyDAXxDe4pAzeqaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159930280171-jdvukltniojrsjs3g2t6431pej66djof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
